@@ -1,0 +1,1 @@
+## This application scrapes data from a website and sends a notification through email if any new event happens.
